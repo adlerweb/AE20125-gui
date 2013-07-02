@@ -35,9 +35,16 @@ This folder includes the Makefile needed to build the software. The included bin
 
 - run make to (re)build the binary
 
+The software was only tested on Linux, however according to Qt and QtSerialPort it should also work on Windows, Mac and other platforms.
+
 /src
 ----
 
 This folder includes all original sources and layout files needed to edit and build the application in QTCreator.
 
+Known issues
+============
+
+- Preset Load/Save is not implemented yet
+- Using Sweep or Modulation locks up my device (however this also applies to the original Windows(r) software)
 
