@@ -48,3 +48,6 @@ Known issues
 - Preset Load/Save is not implemented yet
 - Using Sweep or Modulation locks up my device (however this also applies to the original Windows(r) software)
 
+Screenshot
+==========
+![screenshot](http://www.adlerweb.info/blog/wp-content/uploads/2013/07/Bildschirmfoto-AE20125gui-1.png "Screenshot")
